@@ -114,9 +114,10 @@ The pie chart component illustrates the distribution of items across different c
 
 ## Screenshots
 Default month selected
-![1](        )
-Statistics and Bar Chart of default month
-![2](ht)
-Pie Chart of default month
-![3](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(42).png)
+![1](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(42).png)
+![2](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(43).png)
+![3](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(44).png)
+![4](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(45).png)
+![5](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(46).png)
+
 
