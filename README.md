@@ -11,8 +11,7 @@ This project is a Transactions Management System that allows users to view, sear
 5. [Backend API Endpoints](#backend-api-endpoints)
 6. [Frontend Components](#frontend-components)
 7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Introduction
 
