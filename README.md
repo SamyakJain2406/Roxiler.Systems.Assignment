@@ -118,5 +118,5 @@ Default month selected
 Statistics and Bar Chart of default month
 ![2](ht)
 Pie Chart of default month
-![3](https://)
+![3](https://github.com/SamyakJain2406/Roxiler.Systems.Assignment/blob/main/Screenshot%20(42).png)
 
